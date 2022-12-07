@@ -29,6 +29,10 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    - name: install dependencies
+      run: |
+          pip install requests pandas datetime ipywidgets plotly IPython
+
     # Build the book ## do we need to clean first?
     - name: Build the book
       run: |
