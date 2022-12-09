@@ -36,6 +36,7 @@ jobs:
     # Build the book ## do we need to clean first?
     - name: Build the book
       run: |
+        jupyter-book clean .
         jupyter-book build .
 
     # Push the book's HTML to github-pages
