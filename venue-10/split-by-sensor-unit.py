@@ -31,8 +31,8 @@ df.loc[(df['delta'] <= args.bin_boundary_value), 'assignment'] = 'sensor1'
 
 sensor1_df = df[df['assignment']=='sensor1']
 sensor2_df = df[df['assignment']=='sensor2']
-sensor1_df = df.drop(['delta','assignment'], axis=1)
-sensor2_df = df.drop(['delta','assignment'], axis=1)
+sensor1_df = sensor1_df.drop(['delta','assignment'], axis=1)
+sensor2_df = sensor2_df.drop(['delta','assignment'], axis=1)
 
 sensor1_df.to_csv("venue_10_sensor_1.csv", encoding='utf-8')
 sensor2_df.to_csv("venue_10_sensor_2.csv", encoding='utf-8')

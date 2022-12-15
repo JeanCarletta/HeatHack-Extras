@@ -7,7 +7,9 @@ chapters:
 - file: extras
   sections:
     - file: venue-7-electrics
+    - file: venue-10-two-monitors
     - file: venue-11-lascars
+    - file: venue-10-reasoning
 - file: run-time
     
 
