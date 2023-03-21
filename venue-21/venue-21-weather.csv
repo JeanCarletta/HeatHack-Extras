@@ -1,0 +1,746 @@
+date,time,empty,temperature,conditions,windspeed,,rh,presure,visibility
+2023-03-01,"00:50
+Wed, 1 Mar",,6 °C,Overcast.,7 mph,↑,76%,1040 mbar,N/A
+2023-03-01,1:20,,6 °C,Overcast.,10 mph,↑,71%,1040 mbar,N/A
+2023-03-01,1:50,,6 °C,Overcast.,7 mph,↑,71%,1039 mbar,N/A
+2023-03-01,2:20,,6 °C,Overcast.,10 mph,↑,76%,1039 mbar,N/A
+2023-03-01,3:20,,5 °C,Overcast.,12 mph,↑,81%,1039 mbar,N/A
+2023-03-01,3:50,,5 °C,Overcast.,10 mph,↑,81%,1039 mbar,N/A
+2023-03-01,4:20,,5 °C,Passing clouds.,9 mph,↑,81%,1038 mbar,N/A
+2023-03-01,4:50,,4 °C,Passing clouds.,7 mph,↑,87%,1038 mbar,N/A
+2023-03-01,5:20,,4 °C,Passing clouds.,7 mph,↑,87%,1038 mbar,N/A
+2023-03-01,5:50,,4 °C,Passing clouds.,8 mph,↑,87%,1038 mbar,N/A
+2023-03-01,6:20,,4 °C,Overcast.,7 mph,↑,87%,1038 mbar,N/A
+2023-03-01,6:50,,4 °C,Passing clouds.,6 mph,↑,87%,1038 mbar,N/A
+2023-03-01,7:20,,5 °C,Scattered clouds.,7 mph,↑,81%,1039 mbar,N/A
+2023-03-01,7:50,,4 °C,Scattered clouds.,6 mph,↑,87%,1039 mbar,N/A
+2023-03-01,8:20,,5 °C,Light rain. Overcast.,3 mph,↑,81%,1038 mbar,N/A
+2023-03-01,8:50,,5 °C,Scattered clouds.,6 mph,↑,81%,1038 mbar,N/A
+2023-03-01,9:20,,5 °C,Scattered clouds.,9 mph,↑,87%,1038 mbar,N/A
+2023-03-01,9:50,,6 °C,Scattered clouds.,7 mph,↑,81%,1038 mbar,N/A
+2023-03-01,10:20,,6 °C,Scattered clouds.,6 mph,↑,81%,1038 mbar,N/A
+2023-03-01,10:50,,7 °C,Sleet. Partly sunny.,12 mph,↑,76%,1038 mbar,N/A
+2023-03-01,11:50,,6 °C,Light rain. Partly sunny.,12 mph,↑,93%,1038 mbar,7 km
+2023-03-01,12:20,,6 °C,Scattered showers. Scattered clouds.,12 mph,↑,93%,1037 mbar,N/A
+2023-03-01,12:50,,7 °C,Scattered clouds.,10 mph,↑,87%,1037 mbar,N/A
+2023-03-01,13:20,,7 °C,Scattered showers. Partly sunny.,16 mph,↑,81%,1036 mbar,N/A
+2023-03-01,13:50,,7 °C,Scattered clouds.,13 mph,↑,87%,1036 mbar,N/A
+2023-03-01,14:20,,7 °C,Scattered showers. Partly sunny.,13 mph,↑,81%,1036 mbar,N/A
+2023-03-01,14:50,,6 °C,Light rain. Partly sunny.,12 mph,↑,87%,1036 mbar,8 km
+2023-03-01,15:20,,7 °C,Sleet. Partly sunny.,9 mph,↑,81%,1035 mbar,N/A
+2023-03-01,15:50,,6 °C,Drizzle. Cloudy.,10 mph,↑,93%,1035 mbar,9 km
+2023-03-01,16:20,,6 °C,Partly sunny.,7 mph,↑,93%,1035 mbar,N/A
+2023-03-01,16:50,,6 °C,Broken clouds.,7 mph,↑,87%,1034 mbar,N/A
+2023-03-01,17:20,,7 °C,Broken clouds.,13 mph,↑,76%,1034 mbar,N/A
+2023-03-01,17:50,,6 °C,Passing clouds.,12 mph,↑,81%,1034 mbar,N/A
+2023-03-01,18:20,,7 °C,Light rain. Passing clouds.,10 mph,↑,76%,1034 mbar,N/A
+2023-03-01,18:50,,7 °C,Light rain. Mostly cloudy.,8 mph,↑,76%,1033 mbar,N/A
+2023-03-01,19:20,,6 °C,Passing clouds.,7 mph,↑,81%,1033 mbar,N/A
+2023-03-01,19:50,,6 °C,Passing clouds.,9 mph,↑,81%,1033 mbar,N/A
+2023-03-01,20:20,,6 °C,Partly cloudy.,8 mph,↑,81%,1033 mbar,N/A
+2023-03-01,20:50,,6 °C,Light rain. Partly cloudy.,12 mph,↑,81%,1033 mbar,N/A
+2023-03-01,21:20,,6 °C,Light rain. Passing clouds.,13 mph,↑,81%,1033 mbar,N/A
+2023-03-01,21:50,,6 °C,Passing clouds.,12 mph,↑,81%,1033 mbar,N/A
+2023-03-01,22:20,,6 °C,Overcast.,10 mph,↑,81%,1033 mbar,N/A
+2023-03-01,22:50,,6 °C,Overcast.,12 mph,↑,81%,1033 mbar,N/A
+2023-03-01,23:20,,6 °C,Passing clouds.,12 mph,↑,81%,1032 mbar,N/A
+2023-03-02,"00:50
+Thu, 2 Mar",,6 °C,Overcast.,12 mph,↑,76%,1032 mbar,N/A
+2023-03-02,1:20,,6 °C,Overcast.,12 mph,↑,76%,1032 mbar,N/A
+2023-03-02,1:50,,6 °C,Overcast.,13 mph,↑,76%,1031 mbar,N/A
+2023-03-02,2:20,,6 °C,Overcast.,9 mph,↑,76%,1031 mbar,N/A
+2023-03-02,2:50,,6 °C,Overcast.,12 mph,↑,76%,1031 mbar,N/A
+2023-03-02,3:20,,6 °C,Overcast.,9 mph,↑,76%,1030 mbar,N/A
+2023-03-02,3:50,,6 °C,Overcast.,9 mph,↑,71%,1030 mbar,N/A
+2023-03-02,4:20,,6 °C,Overcast.,8 mph,↑,71%,1030 mbar,N/A
+2023-03-02,4:50,,6 °C,Overcast.,8 mph,↑,71%,1030 mbar,N/A
+2023-03-02,5:20,,6 °C,Overcast.,7 mph,↑,71%,1030 mbar,N/A
+2023-03-02,5:50,,5 °C,Overcast.,7 mph,↑,81%,1030 mbar,N/A
+2023-03-02,6:20,,5 °C,Mostly cloudy.,8 mph,↑,87%,1030 mbar,N/A
+2023-03-02,6:50,,5 °C,Light rain. Passing clouds.,8 mph,↑,87%,1030 mbar,N/A
+2023-03-02,7:20,,5 °C,Light rain. Partly sunny.,7 mph,↑,87%,1031 mbar,N/A
+2023-03-02,7:50,,5 °C,Light rain. Scattered clouds.,5 mph,↑,87%,1031 mbar,N/A
+2023-03-02,8:20,,5 °C,Partly sunny.,7 mph,↑,87%,1031 mbar,N/A
+2023-03-02,8:50,,6 °C,Scattered clouds.,7 mph,↑,81%,1031 mbar,N/A
+2023-03-02,9:20,,6 °C,Scattered clouds.,9 mph,↑,81%,1031 mbar,N/A
+2023-03-02,9:50,,6 °C,Light rain. Broken clouds.,8 mph,↑,76%,1031 mbar,N/A
+2023-03-02,10:20,,6 °C,Scattered clouds.,9 mph,↑,81%,1031 mbar,N/A
+2023-03-02,10:50,,7 °C,Light rain. Scattered clouds.,12 mph,↑,76%,1031 mbar,N/A
+2023-03-02,11:50,,8 °C,Scattered clouds.,10 mph,↑,76%,1031 mbar,N/A
+2023-03-02,12:20,,7 °C,Scattered clouds.,13 mph,↑,76%,1031 mbar,N/A
+2023-03-02,12:50,,7 °C,Light rain. Broken clouds.,12 mph,↑,76%,1030 mbar,N/A
+2023-03-02,13:20,,8 °C,Light rain. Scattered clouds.,13 mph,↑,76%,1030 mbar,N/A
+2023-03-02,13:50,,7 °C,Scattered showers. Scattered clouds.,14 mph,↑,81%,1030 mbar,N/A
+2023-03-02,14:20,,7 °C,Partly sunny.,12 mph,↑,81%,1030 mbar,N/A
+2023-03-02,14:50,,7 °C,Partly sunny.,10 mph,↑,76%,1030 mbar,N/A
+2023-03-02,15:20,,7 °C,Scattered clouds.,10 mph,↑,81%,1030 mbar,N/A
+2023-03-02,15:50,,7 °C,Light rain. Partly sunny.,12 mph,↑,81%,1030 mbar,N/A
+2023-03-02,16:20,,6 °C,Broken clouds.,9 mph,↑,87%,1030 mbar,N/A
+2023-03-02,16:50,,6 °C,Partly sunny.,9 mph,↑,87%,1030 mbar,N/A
+2023-03-02,17:20,,6 °C,Light rain. Broken clouds.,10 mph,↑,87%,1030 mbar,N/A
+2023-03-02,17:50,,5 °C,Passing clouds.,7 mph,↑,93%,1030 mbar,N/A
+2023-03-02,18:20,,5 °C,Passing clouds.,10 mph,↑,93%,1030 mbar,N/A
+2023-03-02,18:50,,5 °C,Passing clouds.,10 mph,↑,93%,1031 mbar,N/A
+2023-03-02,19:20,,5 °C,Passing clouds.,9 mph,↑,87%,1031 mbar,N/A
+2023-03-02,19:50,,5 °C,Light rain. Passing clouds.,8 mph,↑,87%,1031 mbar,N/A
+2023-03-02,20:20,,5 °C,Light rain. Passing clouds.,7 mph,↑,93%,1031 mbar,N/A
+2023-03-02,20:50,,5 °C,Light rain. Passing clouds.,5 mph,↑,87%,1031 mbar,N/A
+2023-03-02,21:20,,5 °C,Light rain. Passing clouds.,2 mph,↑,93%,1031 mbar,N/A
+2023-03-02,21:50,,5 °C,Light rain. Passing clouds.,2 mph,↑,87%,1031 mbar,N/A
+2023-03-02,22:50,,5 °C,Passing clouds.,8 mph,↑,87%,1032 mbar,N/A
+2023-03-02,23:20,,5 °C,Overcast.,5 mph,↑,81%,1032 mbar,N/A
+2023-03-03,"00:50
+Fri, 3 Mar",,5 °C,Overcast.,7 mph,↑,81%,1032 mbar,N/A
+2023-03-03,1:20,,5 °C,Overcast.,6 mph,↑,81%,1032 mbar,N/A
+2023-03-03,1:50,,6 °C,Overcast.,8 mph,↑,76%,1032 mbar,N/A
+2023-03-03,2:20,,6 °C,Overcast.,7 mph,↑,71%,1032 mbar,N/A
+2023-03-03,2:50,,6 °C,Overcast.,6 mph,↑,76%,1032 mbar,N/A
+2023-03-03,3:20,,5 °C,Overcast.,6 mph,↑,76%,1032 mbar,N/A
+2023-03-03,3:50,,5 °C,Overcast.,5 mph,↑,76%,1032 mbar,N/A
+2023-03-03,4:20,,5 °C,Overcast.,3 mph,↑,81%,1032 mbar,N/A
+2023-03-03,4:50,,5 °C,Overcast.,3 mph,↑,81%,1032 mbar,N/A
+2023-03-03,5:20,,5 °C,Overcast.,3 mph,↑,76%,1032 mbar,N/A
+2023-03-03,5:50,,5 °C,Overcast.,3 mph,↑,76%,1032 mbar,N/A
+2023-03-03,6:20,,5 °C,Overcast.,3 mph,↑,76%,1032 mbar,N/A
+2023-03-03,6:50,,5 °C,Passing clouds.,3 mph,↑,76%,1032 mbar,N/A
+2023-03-03,7:20,,5 °C,Scattered clouds.,5 mph,↑,76%,1032 mbar,N/A
+2023-03-03,7:50,,5 °C,Scattered clouds.,3 mph,↑,76%,1032 mbar,N/A
+2023-03-03,8:20,,5 °C,Scattered clouds.,5 mph,↑,76%,1033 mbar,N/A
+2023-03-03,8:50,,6 °C,Scattered clouds.,6 mph,↑,66%,1033 mbar,N/A
+2023-03-03,9:20,,6 °C,Scattered clouds.,5 mph,↑,66%,1033 mbar,N/A
+2023-03-03,9:50,,6 °C,Scattered clouds.,7 mph,↑,66%,1033 mbar,N/A
+2023-03-03,10:20,,6 °C,Scattered clouds.,7 mph,↑,66%,1033 mbar,N/A
+2023-03-03,10:50,,6 °C,Scattered clouds.,6 mph,↑,66%,1033 mbar,N/A
+2023-03-03,11:20,,6 °C,Scattered clouds.,7 mph,↑,66%,1033 mbar,N/A
+2023-03-03,11:50,,6 °C,Partly sunny.,3 mph,↑,66%,1033 mbar,N/A
+2023-03-03,12:20,,7 °C,Scattered clouds.,5 mph,↑,61%,1033 mbar,N/A
+2023-03-03,12:50,,6 °C,Scattered clouds.,6 mph,↑,66%,1033 mbar,N/A
+2023-03-03,13:20,,6 °C,Partly sunny.,5 mph,↑,66%,1033 mbar,N/A
+2023-03-03,13:50,,6 °C,Partly sunny.,3 mph,↑,66%,1033 mbar,N/A
+2023-03-03,14:20,,6 °C,Partly sunny.,3 mph,↑,66%,1033 mbar,N/A
+2023-03-03,14:50,,6 °C,Partly sunny.,2 mph,↑,61%,1032 mbar,N/A
+2023-03-03,15:20,,6 °C,Partly sunny.,2 mph,↑,61%,1032 mbar,N/A
+2023-03-03,15:50,,6 °C,Partly sunny.,2 mph,↑,61%,1032 mbar,N/A
+2023-03-03,16:20,,6 °C,Partly sunny.,3 mph,↑,66%,1032 mbar,N/A
+2023-03-03,16:50,,6 °C,Partly sunny.,3 mph,↑,66%,1032 mbar,N/A
+2023-03-03,17:20,,5 °C,Scattered clouds.,2 mph,↑,70%,1032 mbar,N/A
+2023-03-03,17:50,,4 °C,Passing clouds.,1 mph,↑,70%,1032 mbar,N/A
+2023-03-03,18:20,,3 °C,Clear.,3 mph,↑,75%,1032 mbar,16 km
+2023-03-03,18:50,,2 °C,Clear.,3 mph,↑,81%,1032 mbar,16 km
+2023-03-03,19:20,,1 °C,Clear.,5 mph,↑,87%,1032 mbar,16 km
+2023-03-03,19:50,,0 °C,Clear.,1 mph,↑,87%,1032 mbar,16 km
+2023-03-03,20:20,,1 °C,Clear.,2 mph,↑,81%,1033 mbar,16 km
+2023-03-03,20:50,,-1 °C,Clear.,1 mph,↑,86%,1033 mbar,16 km
+2023-03-03,21:20,,-1 °C,Passing clouds.,2 mph,↑,93%,1033 mbar,N/A
+2023-03-03,21:50,,0 °C,Passing clouds.,3 mph,↑,93%,1033 mbar,N/A
+2023-03-03,22:20,,1 °C,Overcast.,2 mph,↑,87%,1033 mbar,N/A
+2023-03-03,22:50,,2 °C,Passing clouds.,5 mph,↑,81%,1033 mbar,N/A
+2023-03-03,23:20,,2 °C,Overcast.,2 mph,↑,81%,1033 mbar,N/A
+2023-03-04,"00:50
+Sat, 4 Mar",,2 °C,Overcast.,3 mph,↑,81%,1033 mbar,N/A
+2023-03-04,1:20,,2 °C,Overcast.,2 mph,↑,81%,1033 mbar,N/A
+2023-03-04,1:50,,2 °C,Overcast.,2 mph,↑,81%,1033 mbar,N/A
+2023-03-04,2:20,,2 °C,Passing clouds.,2 mph,↑,81%,1032 mbar,N/A
+2023-03-04,2:50,,2 °C,Passing clouds.,3 mph,↑,87%,1032 mbar,N/A
+2023-03-04,3:20,,2 °C,Overcast.,2 mph,↑,87%,1032 mbar,N/A
+2023-03-04,3:50,,2 °C,Overcast.,2 mph,↑,87%,1032 mbar,N/A
+2023-03-04,4:20,,2 °C,Overcast.,1 mph,↑,87%,1032 mbar,N/A
+2023-03-04,4:50,,2 °C,Overcast.,1 mph,↑,87%,1032 mbar,N/A
+2023-03-04,5:20,,2 °C,Overcast.,2 mph,↑,87%,1032 mbar,N/A
+2023-03-04,5:50,,0 °C,Passing clouds.,7 mph,↑,93%,1032 mbar,N/A
+2023-03-04,6:20,,0 °C,Passing clouds.,3 mph,↑,93%,1032 mbar,N/A
+2023-03-04,6:50,,-1 °C,Clear.,2 mph,↑,93%,1032 mbar,16 km
+2023-03-04,7:20,,0 °C,Sunny.,1 mph,↑,93%,1032 mbar,16 km
+2023-03-04,8:20,,1 °C,Sunny.,1 mph,↑,93%,1032 mbar,16 km
+2023-03-04,8:50,,2 °C,Passing clouds.,7 mph,↑,87%,1032 mbar,N/A
+2023-03-04,9:20,,3 °C,Passing clouds.,6 mph,↑,87%,1032 mbar,N/A
+2023-03-04,9:50,,4 °C,Passing clouds.,5 mph,↑,75%,1032 mbar,N/A
+2023-03-04,10:20,,5 °C,Passing clouds.,6 mph,↑,70%,1032 mbar,N/A
+2023-03-04,10:50,,6 °C,Passing clouds.,5 mph,↑,71%,1032 mbar,N/A
+2023-03-04,11:20,,6 °C,Passing clouds.,6 mph,↑,66%,1032 mbar,N/A
+2023-03-04,11:50,,7 °C,Scattered clouds.,5 mph,↑,66%,1031 mbar,N/A
+2023-03-04,12:20,,7 °C,Scattered clouds.,3 mph,↑,66%,1031 mbar,N/A
+2023-03-04,12:50,,7 °C,Scattered clouds.,3 mph,↑,61%,1031 mbar,N/A
+2023-03-04,13:20,,8 °C,Scattered clouds.,2 mph,↑,57%,1030 mbar,N/A
+2023-03-04,13:50,,7 °C,Scattered clouds.,2 mph,↑,61%,1030 mbar,N/A
+2023-03-04,14:20,,8 °C,Partly sunny.,3 mph,↑,57%,1030 mbar,N/A
+2023-03-04,14:50,,8 °C,Broken clouds.,5 mph,↑,57%,1029 mbar,N/A
+2023-03-04,15:20,,8 °C,Partly sunny.,5 mph,↑,57%,1029 mbar,N/A
+2023-03-04,15:50,,8 °C,Partly sunny.,6 mph,↑,62%,1029 mbar,N/A
+2023-03-04,16:20,,7 °C,Partly sunny.,5 mph,↑,66%,1028 mbar,N/A
+2023-03-04,16:50,,7 °C,Partly sunny.,3 mph,↑,66%,1028 mbar,N/A
+2023-03-04,17:20,,7 °C,Partly sunny.,3 mph,↑,66%,1028 mbar,N/A
+2023-03-04,17:50,,6 °C,Partly sunny.,5 mph,↑,71%,1028 mbar,N/A
+2023-03-04,18:20,,6 °C,Passing clouds.,5 mph,↑,71%,1028 mbar,N/A
+2023-03-04,18:50,,6 °C,Passing clouds.,6 mph,↑,66%,1028 mbar,N/A
+2023-03-04,19:20,,5 °C,Clear.,3 mph,↑,70%,1028 mbar,16 km
+2023-03-04,19:50,,5 °C,Passing clouds.,6 mph,↑,70%,1027 mbar,N/A
+2023-03-04,20:20,,5 °C,Overcast.,7 mph,↑,76%,1027 mbar,N/A
+2023-03-04,20:50,,5 °C,Overcast.,6 mph,↑,70%,1027 mbar,N/A
+2023-03-04,21:20,,4 °C,Overcast.,3 mph,↑,81%,1027 mbar,N/A
+2023-03-04,21:50,,4 °C,Mostly cloudy.,3 mph,↑,75%,1026 mbar,N/A
+2023-03-04,22:20,,4 °C,Mostly cloudy.,6 mph,↑,75%,1026 mbar,N/A
+2023-03-04,22:50,,4 °C,Mostly cloudy.,6 mph,↑,75%,1026 mbar,N/A
+2023-03-04,23:20,,4 °C,Overcast.,7 mph,↑,75%,1026 mbar,N/A
+2023-03-05,"04:50
+Sun, 5 Mar",,3 °C,Overcast.,6 mph,↑,75%,1021 mbar,N/A
+2023-03-05,5:20,,3 °C,Overcast.,6 mph,↑,81%,1021 mbar,N/A
+2023-03-05,5:50,,2 °C,Passing clouds.,6 mph,↑,87%,1020 mbar,N/A
+2023-03-05,6:20,,2 °C,Clear.,6 mph,↑,87%,1020 mbar,16 km
+2023-03-05,6:50,,3 °C,Passing clouds.,6 mph,↑,81%,1020 mbar,N/A
+2023-03-05,7:20,,2 °C,Passing clouds.,6 mph,↑,87%,1019 mbar,N/A
+2023-03-05,7:50,,3 °C,Passing clouds.,7 mph,↑,87%,1019 mbar,N/A
+2023-03-05,8:20,,4 °C,Passing clouds.,7 mph,↑,81%,1019 mbar,N/A
+2023-03-05,9:20,,5 °C,Passing clouds.,6 mph,↑,81%,1018 mbar,N/A
+2023-03-05,9:50,,6 °C,Passing clouds.,8 mph,↑,76%,1018 mbar,N/A
+2023-03-05,10:20,,7 °C,Passing clouds.,8 mph,↑,71%,1018 mbar,N/A
+2023-03-05,10:50,,7 °C,Passing clouds.,7 mph,↑,76%,1017 mbar,N/A
+2023-03-05,11:20,,7 °C,Scattered clouds.,6 mph,↑,71%,1017 mbar,N/A
+2023-03-05,11:50,,7 °C,Scattered clouds.,7 mph,↑,71%,1017 mbar,N/A
+2023-03-05,12:20,,8 °C,Scattered clouds.,6 mph,↑,66%,1016 mbar,N/A
+2023-03-05,12:50,,8 °C,Scattered clouds.,5 mph,↑,62%,1016 mbar,N/A
+2023-03-05,13:20,,8 °C,Passing clouds.,3 mph,↑,62%,1016 mbar,N/A
+2023-03-05,13:50,,8 °C,Scattered clouds.,2 mph,↑,62%,1015 mbar,N/A
+2023-03-05,14:20,,8 °C,Scattered clouds.,3 mph,↑,62%,1015 mbar,N/A
+2023-03-05,14:50,,8 °C,Scattered clouds.,1 mph,↑,62%,1014 mbar,N/A
+2023-03-05,15:20,,8 °C,Light rain. Scattered clouds.,2 mph,↑,62%,1014 mbar,N/A
+2023-03-05,15:50,,7 °C,Scattered clouds.,3 mph,↑,71%,1013 mbar,N/A
+2023-03-05,16:20,,7 °C,Passing clouds.,9 mph,↑,71%,1013 mbar,N/A
+2023-03-05,16:50,,7 °C,Scattered clouds.,12 mph,↑,71%,1013 mbar,N/A
+2023-03-05,17:20,,5 °C,Passing clouds.,13 mph,↑,87%,1013 mbar,N/A
+2023-03-05,17:50,,5 °C,Passing clouds.,9 mph,↑,87%,1013 mbar,N/A
+2023-03-05,18:20,,4 °C,Passing clouds.,7 mph,↑,93%,1013 mbar,N/A
+2023-03-05,18:50,,5 °C,Clear.,8 mph,↑,87%,1012 mbar,16 km
+2023-03-05,19:20,,5 °C,Passing clouds.,6 mph,↑,87%,1012 mbar,N/A
+2023-03-05,19:50,,5 °C,Passing clouds.,6 mph,↑,81%,1012 mbar,N/A
+2023-03-05,20:20,,4 °C,Passing clouds.,3 mph,↑,87%,1011 mbar,N/A
+2023-03-05,20:50,,4 °C,Passing clouds.,2 mph,↑,87%,1011 mbar,N/A
+2023-03-05,21:20,,4 °C,Passing clouds.,1 mph,↑,87%,1011 mbar,N/A
+2023-03-05,21:50,,4 °C,Passing clouds.,2 mph,↑,87%,1010 mbar,N/A
+2023-03-05,22:20,,3 °C,Passing clouds.,3 mph,↑,93%,1009 mbar,N/A
+2023-03-05,22:50,,3 °C,Clear.,3 mph,↑,87%,1009 mbar,16 km
+2023-03-05,23:20,,3 °C,Clear.,3 mph,↑,93%,1009 mbar,16 km
+2023-03-06,"00:50
+Mon, 6 Mar",,3 °C,Passing clouds.,5 mph,↑,87%,1007 mbar,N/A
+2023-03-06,1:20,,3 °C,Passing clouds.,7 mph,↑,93%,1007 mbar,N/A
+2023-03-06,2:20,,4 °C,Light rain. Mostly cloudy.,9 mph,↑,93%,1005 mbar,N/A
+2023-03-06,2:50,,4 °C,Light rain. Passing clouds.,9 mph,↑,93%,1005 mbar,N/A
+2023-03-06,3:20,,4 °C,Light rain. Passing clouds.,8 mph,↑,93%,1004 mbar,N/A
+2023-03-06,3:50,,4 °C,Passing clouds.,9 mph,↑,93%,1003 mbar,N/A
+2023-03-06,4:20,,4 °C,Passing clouds.,8 mph,↑,93%,1003 mbar,N/A
+2023-03-06,4:50,,4 °C,Passing clouds.,8 mph,↑,93%,1002 mbar,N/A
+2023-03-06,5:50,,3 °C,Clear.,8 mph,↑,93%,1002 mbar,16 km
+2023-03-06,6:20,,3 °C,Passing clouds.,8 mph,↑,93%,1002 mbar,N/A
+2023-03-06,6:50,,3 °C,Passing clouds.,8 mph,↑,87%,1001 mbar,N/A
+2023-03-06,7:20,,3 °C,Passing clouds.,6 mph,↑,87%,1001 mbar,N/A
+2023-03-06,7:50,,3 °C,Passing clouds.,5 mph,↑,87%,1001 mbar,N/A
+2023-03-06,8:20,,4 °C,Passing clouds.,5 mph,↑,81%,1001 mbar,N/A
+2023-03-06,8:50,,4 °C,Sprinkles. Scattered clouds.,7 mph,↑,81%,1002 mbar,N/A
+2023-03-06,9:20,,4 °C,Scattered showers. Scattered clouds.,6 mph,↑,87%,1002 mbar,N/A
+2023-03-06,9:50,,5 °C,Passing clouds.,7 mph,↑,76%,1002 mbar,N/A
+2023-03-06,10:20,,5 °C,Passing clouds.,9 mph,↑,70%,1002 mbar,N/A
+2023-03-06,10:50,,6 °C,Passing clouds.,8 mph,↑,66%,1002 mbar,N/A
+2023-03-06,11:20,,6 °C,Passing clouds.,8 mph,↑,66%,1002 mbar,N/A
+2023-03-06,11:50,,6 °C,Passing clouds.,7 mph,↑,61%,1002 mbar,N/A
+2023-03-06,12:20,,6 °C,Passing clouds.,10 mph,↑,57%,1002 mbar,N/A
+2023-03-06,12:50,,7 °C,Scattered clouds.,9 mph,↑,53%,1002 mbar,N/A
+2023-03-06,13:50,,7 °C,Passing clouds.,9 mph,↑,53%,1001 mbar,N/A
+2023-03-06,14:20,,7 °C,Passing clouds.,9 mph,↑,49%,1001 mbar,N/A
+2023-03-06,14:50,,6 °C,Passing clouds.,9 mph,↑,49%,1001 mbar,N/A
+2023-03-06,15:20,,6 °C,Passing clouds.,9 mph,↑,53%,1001 mbar,N/A
+2023-03-06,15:50,,6 °C,Passing clouds.,8 mph,↑,49%,1001 mbar,N/A
+2023-03-06,16:20,,6 °C,Passing clouds.,7 mph,↑,53%,1001 mbar,N/A
+2023-03-06,16:50,,5 °C,Passing clouds.,7 mph,↑,53%,1001 mbar,N/A
+2023-03-06,17:20,,4 °C,Passing clouds.,7 mph,↑,56%,1001 mbar,N/A
+2023-03-06,17:50,,3 °C,Passing clouds.,8 mph,↑,60%,1001 mbar,N/A
+2023-03-06,18:20,,2 °C,Passing clouds.,5 mph,↑,65%,1001 mbar,N/A
+2023-03-06,18:50,,2 °C,Passing clouds.,8 mph,↑,65%,1001 mbar,N/A
+2023-03-06,19:20,,2 °C,Passing clouds.,6 mph,↑,65%,1001 mbar,N/A
+2023-03-06,19:50,,1 °C,Clear.,1 mph,↑,70%,1001 mbar,16 km
+2023-03-06,20:20,,1 °C,Passing clouds.,3 mph,↑,70%,1002 mbar,N/A
+2023-03-07,"00:50
+Tue, 7 Mar",,1 °C,Passing clouds.,5 mph,↑,70%,1001 mbar,N/A
+2023-03-07,1:20,,1 °C,Passing clouds.,6 mph,↑,70%,1001 mbar,N/A
+2023-03-07,1:50,,-1 °C,Passing clouds.,5 mph,↑,80%,1001 mbar,N/A
+2023-03-07,2:20,,-1 °C,Passing clouds.,3 mph,↑,80%,1001 mbar,N/A
+2023-03-07,2:50,,-1 °C,Clear.,2 mph,↑,80%,1001 mbar,16 km
+2023-03-07,3:20,,-2 °C,Passing clouds.,3 mph,↑,80%,1001 mbar,N/A
+2023-03-07,3:50,,-1 °C,Passing clouds.,5 mph,↑,75%,1001 mbar,N/A
+2023-03-07,4:20,,-3 °C,Clear.,5 mph,↑,86%,1001 mbar,16 km
+2023-03-07,4:50,,-3 °C,Passing clouds.,7 mph,↑,86%,1001 mbar,N/A
+2023-03-07,5:20,,-2 °C,Passing clouds.,3 mph,↑,74%,1000 mbar,N/A
+2023-03-07,5:50,,-1 °C,Passing clouds.,3 mph,↑,69%,1001 mbar,N/A
+2023-03-07,6:20,,-3 °C,Passing clouds.,3 mph,↑,80%,1001 mbar,N/A
+2023-03-07,6:50,,-4 °C,Sunny.,7 mph,↑,86%,1000 mbar,16 km
+2023-03-07,7:20,,-3 °C,Sunny.,7 mph,↑,80%,1000 mbar,16 km
+2023-03-07,7:50,,-3 °C,Sunny.,6 mph,↑,80%,1001 mbar,16 km
+2023-03-07,8:20,,-1 °C,Sunny.,6 mph,↑,75%,1001 mbar,16 km
+2023-03-07,8:50,,0 °C,Sunny.,6 mph,↑,75%,1001 mbar,16 km
+2023-03-07,9:20,,1 °C,Passing clouds.,6 mph,↑,65%,1001 mbar,N/A
+2023-03-07,9:50,,2 °C,Passing clouds.,6 mph,↑,60%,1000 mbar,N/A
+2023-03-07,10:20,,2 °C,Passing clouds.,6 mph,↑,56%,1000 mbar,N/A
+2023-03-07,10:50,,3 °C,Passing clouds.,5 mph,↑,52%,1000 mbar,N/A
+2023-03-07,11:20,,3 °C,Passing clouds.,6 mph,↑,48%,1000 mbar,N/A
+2023-03-07,11:50,,4 °C,Passing clouds.,7 mph,↑,48%,1000 mbar,N/A
+2023-03-07,12:20,,4 °C,Passing clouds.,8 mph,↑,48%,1000 mbar,N/A
+2023-03-07,12:50,,4 °C,Passing clouds.,8 mph,↑,45%,1000 mbar,N/A
+2023-03-07,13:20,,5 °C,Passing clouds.,9 mph,↑,42%,1000 mbar,N/A
+2023-03-07,13:50,,3 °C,Passing clouds.,7 mph,↑,48%,999 mbar,N/A
+2023-03-07,14:20,,4 °C,Passing clouds.,8 mph,↑,42%,999 mbar,N/A
+2023-03-07,14:50,,4 °C,Passing clouds.,7 mph,↑,39%,999 mbar,N/A
+2023-03-07,15:20,,3 °C,Scattered showers. Passing clouds.,7 mph,↑,45%,999 mbar,N/A
+2023-03-07,15:50,,3 °C,Scattered showers. Passing clouds.,5 mph,↑,45%,999 mbar,N/A
+2023-03-07,16:50,,4 °C,Passing clouds.,5 mph,↑,39%,998 mbar,N/A
+2023-03-07,17:20,,3 °C,Passing clouds.,3 mph,↑,41%,998 mbar,N/A
+2023-03-07,17:50,,2 °C,Passing clouds.,2 mph,↑,48%,998 mbar,N/A
+2023-03-07,18:20,,0 °C,Passing clouds.,6 mph,↑,55%,998 mbar,N/A
+2023-03-07,18:50,,-1 °C,Passing clouds.,6 mph,↑,64%,999 mbar,N/A
+2023-03-07,19:20,,-2 °C,Clear.,1 mph,↑,69%,999 mbar,16 km
+2023-03-08,"00:50
+Wed, 8 Mar",,-5 °C,Clear.,1 mph,↑,86%,998 mbar,16 km
+2023-03-08,1:20,,-6 °C,Passing clouds.,3 mph,↑,86%,998 mbar,N/A
+2023-03-08,1:50,,-6 °C,Clear.,1 mph,↑,86%,998 mbar,16 km
+2023-03-08,2:20,,-6 °C,Clear.,1 mph,↑,86%,997 mbar,16 km
+2023-03-08,2:50,,-7 °C,Clear.,1 mph,↑,86%,997 mbar,16 km
+2023-03-08,3:20,,-7 °C,Clear.,1 mph,↑,93%,997 mbar,16 km
+2023-03-08,3:50,,-8 °C,Clear.,2 mph,↑,93%,997 mbar,16 km
+2023-03-08,4:20,,-8 °C,Clear.,3 mph,↑,93%,997 mbar,16 km
+2023-03-08,4:50,,-7 °C,Clear.,1 mph,↑,86%,996 mbar,16 km
+2023-03-08,5:20,,-8 °C,Clear.,2 mph,↑,93%,996 mbar,16 km
+2023-03-08,5:50,,-9 °C,Clear.,No wind,↑,93%,996 mbar,16 km
+2023-03-08,6:20,,-8 °C,Passing clouds.,3 mph,↑,93%,996 mbar,N/A
+2023-03-08,6:50,,-8 °C,Sunny.,No wind,↑,93%,996 mbar,16 km
+2023-03-08,7:20,,-8 °C,Sunny.,3 mph,↑,93%,996 mbar,16 km
+2023-03-08,7:50,,-6 °C,Sunny.,1 mph,↑,93%,996 mbar,16 km
+2023-03-08,8:20,,-4 °C,Sunny.,3 mph,↑,86%,996 mbar,16 km
+2023-03-08,8:50,,-3 °C,Sunny.,3 mph,↑,86%,997 mbar,16 km
+2023-03-08,9:20,,-1 °C,Sunny.,2 mph,↑,80%,997 mbar,16 km
+2023-03-08,9:50,,1 °C,Passing clouds.,2 mph,↑,70%,997 mbar,N/A
+2023-03-08,10:20,,2 °C,Passing clouds.,5 mph,↑,70%,997 mbar,N/A
+2023-03-08,10:50,,2 °C,Passing clouds.,7 mph,↑,70%,997 mbar,N/A
+2023-03-08,11:20,,2 °C,Passing clouds.,8 mph,↑,65%,996 mbar,N/A
+2023-03-08,11:50,,3 °C,Passing clouds.,9 mph,↑,56%,996 mbar,N/A
+2023-03-08,12:50,,3 °C,Passing clouds.,10 mph,↑,56%,996 mbar,N/A
+2023-03-08,13:20,,3 °C,Passing clouds.,8 mph,↑,60%,996 mbar,N/A
+2023-03-08,13:50,,3 °C,Scattered clouds.,12 mph,↑,65%,996 mbar,N/A
+2023-03-08,14:20,,3 °C,Passing clouds.,12 mph,↑,65%,996 mbar,N/A
+2023-03-08,14:50,,4 °C,Passing clouds.,1 mph,↑,56%,996 mbar,N/A
+2023-03-08,15:20,,3 °C,Passing clouds.,13 mph,↑,65%,995 mbar,N/A
+2023-03-08,15:50,,3 °C,Sunny.,13 mph,↑,60%,995 mbar,16 km
+2023-03-08,16:20,,3 °C,Passing clouds.,12 mph,↑,65%,995 mbar,N/A
+2023-03-08,16:50,,3 °C,Scattered clouds.,9 mph,↑,65%,995 mbar,N/A
+2023-03-08,17:20,,2 °C,Scattered clouds.,10 mph,↑,70%,995 mbar,N/A
+2023-03-08,17:50,,1 °C,Passing clouds.,8 mph,↑,70%,996 mbar,N/A
+2023-03-08,18:50,,1 °C,Scattered showers. Passing clouds.,5 mph,↑,70%,996 mbar,N/A
+2023-03-08,19:20,,1 °C,Snow flurries. Passing clouds.,9 mph,↑,75%,996 mbar,9 km
+2023-03-08,19:50,,-1 °C,Light mixture of precip. Passing clouds.,5 mph,↑,93%,997 mbar,N/A
+2023-03-09,"00:50
+Thu, 9 Mar",,-4 °C,Passing clouds.,1 mph,↑,100%,998 mbar,6 km
+2023-03-09,1:20,,-4 °C,Fog.,1 mph,↑,100%,998 mbar,7 km
+2023-03-09,1:50,,-3 °C,Passing clouds.,3 mph,↑,100%,998 mbar,N/A
+2023-03-09,2:20,,-2 °C,Mostly cloudy.,1 mph,↑,100%,998 mbar,N/A
+2023-03-09,2:50,,-1 °C,Passing clouds.,6 mph,↑,100%,998 mbar,N/A
+2023-03-09,3:20,,-2 °C,Passing clouds.,2 mph,↑,93%,998 mbar,N/A
+2023-03-09,4:20,,-3 °C,Passing clouds.,1 mph,↑,93%,998 mbar,N/A
+2023-03-09,4:50,,-4 °C,Passing clouds.,1 mph,↑,93%,998 mbar,N/A
+2023-03-09,5:20,,-5 °C,Passing clouds.,3 mph,↑,100%,998 mbar,N/A
+2023-03-09,5:50,,-5 °C,Passing clouds.,2 mph,↑,93%,998 mbar,8 km
+2023-03-09,6:20,,-5 °C,Passing clouds.,2 mph,↑,93%,998 mbar,N/A
+2023-03-09,6:50,,-5 °C,Passing clouds.,1 mph,↑,93%,998 mbar,N/A
+2023-03-09,7:20,,-6 °C,Scattered clouds.,1 mph,↑,100%,998 mbar,N/A
+2023-03-09,8:20,,-2 °C,Scattered clouds.,5 mph,↑,100%,999 mbar,N/A
+2023-03-09,8:50,,-1 °C,Passing clouds.,5 mph,↑,93%,999 mbar,N/A
+2023-03-09,9:20,,0 °C,Passing clouds.,9 mph,↑,87%,998 mbar,N/A
+2023-03-09,9:50,,1 °C,Scattered clouds.,10 mph,↑,81%,998 mbar,N/A
+2023-03-09,10:20,,1 °C,Scattered clouds.,12 mph,↑,87%,998 mbar,N/A
+2023-03-09,10:50,,1 °C,Scattered clouds.,12 mph,↑,87%,998 mbar,N/A
+2023-03-09,11:20,,2 °C,Scattered clouds.,14 mph,↑,81%,998 mbar,N/A
+2023-03-09,11:50,,2 °C,Partly sunny.,15 mph,↑,81%,998 mbar,N/A
+2023-03-09,12:50,,3 °C,Partly sunny.,15 mph,↑,75%,998 mbar,N/A
+2023-03-09,13:20,,3 °C,Partly sunny.,15 mph,↑,75%,998 mbar,N/A
+2023-03-09,13:50,,3 °C,Partly sunny.,15 mph,↑,75%,998 mbar,N/A
+2023-03-09,14:20,,3 °C,Partly sunny.,14 mph,↑,75%,997 mbar,N/A
+2023-03-09,14:50,,3 °C,Scattered clouds.,16 mph,↑,75%,997 mbar,N/A
+2023-03-09,15:20,,4 °C,Scattered clouds.,16 mph,↑,70%,997 mbar,N/A
+2023-03-09,15:50,,3 °C,Scattered clouds.,16 mph,↑,70%,997 mbar,N/A
+2023-03-09,16:20,,3 °C,Scattered clouds.,16 mph,↑,70%,996 mbar,N/A
+2023-03-09,16:50,,3 °C,Scattered showers. Scattered clouds.,14 mph,↑,75%,996 mbar,N/A
+2023-03-09,17:20,,3 °C,Scattered showers. Scattered clouds.,15 mph,↑,65%,996 mbar,N/A
+2023-03-09,17:50,,3 °C,Scattered showers. Scattered clouds.,13 mph,↑,70%,996 mbar,N/A
+2023-03-09,18:20,,3 °C,Scattered showers. Passing clouds.,17 mph,↑,65%,996 mbar,N/A
+2023-03-09,18:50,,3 °C,Scattered showers. Passing clouds.,14 mph,↑,70%,996 mbar,N/A
+2023-03-09,19:20,,2 °C,Snow flurries. Passing clouds.,15 mph,↑,75%,996 mbar,5 km
+2023-03-09,20:20,,2 °C,Light rain. Passing clouds.,15 mph,↑,81%,996 mbar,8 km
+2023-03-09,20:50,,2 °C,Light rain. Passing clouds.,14 mph,↑,75%,996 mbar,N/A
+2023-03-10,"00:50
+Fri, 10 Mar",,2 °C,Passing clouds.,13 mph,↑,65%,998 mbar,N/A
+2023-03-10,1:20,,2 °C,Passing clouds.,12 mph,↑,60%,998 mbar,N/A
+2023-03-10,1:50,,2 °C,Clear.,9 mph,↑,60%,998 mbar,16 km
+2023-03-10,2:20,,2 °C,Clear.,12 mph,↑,60%,999 mbar,16 km
+2023-03-10,2:50,,2 °C,Clear.,9 mph,↑,60%,999 mbar,16 km
+2023-03-10,3:20,,2 °C,Passing clouds.,12 mph,↑,60%,999 mbar,N/A
+2023-03-10,3:50,,1 °C,Passing clouds.,7 mph,↑,65%,999 mbar,N/A
+2023-03-10,4:20,,1 °C,Clear.,8 mph,↑,65%,1000 mbar,16 km
+2023-03-10,4:50,,1 °C,Clear.,8 mph,↑,65%,1000 mbar,16 km
+2023-03-10,5:20,,1 °C,Clear.,3 mph,↑,65%,1001 mbar,16 km
+2023-03-10,5:50,,0 °C,Passing clouds.,3 mph,↑,69%,1001 mbar,N/A
+2023-03-10,6:50,,-1 °C,Scattered clouds.,1 mph,↑,75%,1002 mbar,N/A
+2023-03-10,7:20,,0 °C,Scattered clouds.,2 mph,↑,69%,1002 mbar,N/A
+2023-03-10,7:50,,0 °C,Passing clouds.,3 mph,↑,69%,1003 mbar,N/A
+2023-03-10,8:20,,1 °C,Sunny.,6 mph,↑,70%,1003 mbar,16 km
+2023-03-10,8:50,,2 °C,Passing clouds.,5 mph,↑,60%,1004 mbar,N/A
+2023-03-10,9:20,,2 °C,Passing clouds.,6 mph,↑,65%,1004 mbar,N/A
+2023-03-10,9:50,,3 °C,Passing clouds.,5 mph,↑,60%,1004 mbar,N/A
+2023-03-10,10:20,,4 °C,Passing clouds.,6 mph,↑,56%,1004 mbar,N/A
+2023-03-10,10:50,,4 °C,Passing clouds.,6 mph,↑,52%,1005 mbar,N/A
+2023-03-10,11:20,,5 °C,Passing clouds.,5 mph,↑,53%,1005 mbar,N/A
+2023-03-10,11:50,,5 °C,Passing clouds.,5 mph,↑,45%,1005 mbar,N/A
+2023-03-10,12:20,,5 °C,Passing clouds.,7 mph,↑,45%,1005 mbar,N/A
+2023-03-10,12:50,,6 °C,Passing clouds.,6 mph,↑,42%,1005 mbar,N/A
+2023-03-10,13:20,,6 °C,Passing clouds.,8 mph,↑,39%,1005 mbar,N/A
+2023-03-10,13:50,,6 °C,Passing clouds.,10 mph,↑,39%,1005 mbar,N/A
+2023-03-10,14:20,,7 °C,Passing clouds.,9 mph,↑,37%,1005 mbar,N/A
+2023-03-10,14:50,,7 °C,Passing clouds.,9 mph,↑,31%,1005 mbar,N/A
+2023-03-10,15:20,,7 °C,Passing clouds.,9 mph,↑,31%,1005 mbar,N/A
+2023-03-10,15:50,,6 °C,Passing clouds.,9 mph,↑,31%,1005 mbar,N/A
+2023-03-10,16:20,,6 °C,Passing clouds.,8 mph,↑,36%,1005 mbar,N/A
+2023-03-10,16:50,,6 °C,Passing clouds.,8 mph,↑,34%,1004 mbar,N/A
+2023-03-10,17:20,,5 °C,Passing clouds.,6 mph,↑,39%,1005 mbar,N/A
+2023-03-10,17:50,,4 °C,Passing clouds.,3 mph,↑,45%,1005 mbar,N/A
+2023-03-10,18:50,,2 °C,Passing clouds.,7 mph,↑,60%,1006 mbar,N/A
+2023-03-10,19:20,,0 °C,Clear.,7 mph,↑,69%,1006 mbar,16 km
+2023-03-10,19:50,,-2 °C,Clear.,7 mph,↑,74%,1006 mbar,16 km
+2023-03-11,"00:50
+Sat, 11 Mar",,0 °C,Clear.,6 mph,↑,80%,1007 mbar,16 km
+2023-03-11,1:20,,-1 °C,Clear.,6 mph,↑,86%,1007 mbar,16 km
+2023-03-11,1:50,,-1 °C,Passing clouds.,5 mph,↑,86%,1007 mbar,N/A
+2023-03-11,2:20,,-3 °C,Clear.,6 mph,↑,93%,1007 mbar,16 km
+2023-03-11,2:50,,-2 °C,Clear.,2 mph,↑,93%,1007 mbar,16 km
+2023-03-11,3:20,,-1 °C,Clear.,3 mph,↑,86%,1007 mbar,16 km
+2023-03-11,3:50,,-2 °C,Clear.,2 mph,↑,93%,1007 mbar,16 km
+2023-03-11,4:20,,-2 °C,Clear.,3 mph,↑,93%,1007 mbar,16 km
+2023-03-11,4:50,,-3 °C,Clear.,2 mph,↑,93%,1007 mbar,16 km
+2023-03-11,5:20,,-3 °C,Clear.,5 mph,↑,93%,1007 mbar,16 km
+2023-03-11,5:50,,-4 °C,Clear.,1 mph,↑,93%,1008 mbar,16 km
+2023-03-11,6:50,,-4 °C,Sunny.,1 mph,↑,93%,1008 mbar,16 km
+2023-03-11,7:20,,-3 °C,Passing clouds.,3 mph,↑,93%,1008 mbar,N/A
+2023-03-11,7:50,,-2 °C,Sunny.,1 mph,↑,93%,1008 mbar,16 km
+2023-03-11,8:50,,0 °C,Sunny.,1 mph,↑,87%,1008 mbar,16 km
+2023-03-11,9:20,,1 °C,Sunny.,1 mph,↑,93%,1008 mbar,16 km
+2023-03-11,9:50,,3 °C,Sunny.,2 mph,↑,75%,1008 mbar,16 km
+2023-03-11,10:20,,4 °C,Passing clouds.,5 mph,↑,65%,1008 mbar,N/A
+2023-03-11,10:50,,4 °C,Sunny.,7 mph,↑,70%,1008 mbar,16 km
+2023-03-11,11:20,,5 °C,Passing clouds.,7 mph,↑,66%,1008 mbar,N/A
+2023-03-11,11:50,,5 °C,Passing clouds.,9 mph,↑,66%,1008 mbar,N/A
+2023-03-11,12:20,,5 °C,Passing clouds.,10 mph,↑,66%,1008 mbar,N/A
+2023-03-11,12:50,,5 °C,Scattered clouds.,12 mph,↑,61%,1008 mbar,N/A
+2023-03-11,13:20,,5 °C,Scattered clouds.,12 mph,↑,66%,1007 mbar,N/A
+2023-03-11,13:50,,6 °C,Passing clouds.,12 mph,↑,57%,1007 mbar,N/A
+2023-03-11,14:20,,5 °C,Scattered clouds.,13 mph,↑,61%,1006 mbar,N/A
+2023-03-11,14:50,,5 °C,Scattered clouds.,10 mph,↑,61%,1006 mbar,N/A
+2023-03-11,15:20,,5 °C,Scattered clouds.,13 mph,↑,61%,1006 mbar,N/A
+2023-03-11,15:50,,5 °C,Passing clouds.,13 mph,↑,61%,1006 mbar,N/A
+2023-03-11,16:20,,5 °C,Sunny.,12 mph,↑,61%,1005 mbar,16 km
+2023-03-11,16:50,,5 °C,Sunny.,13 mph,↑,57%,1005 mbar,16 km
+2023-03-11,17:20,,4 °C,Passing clouds.,10 mph,↑,65%,1005 mbar,N/A
+2023-03-11,17:50,,4 °C,Passing clouds.,12 mph,↑,65%,1005 mbar,N/A
+2023-03-11,18:20,,4 °C,Passing clouds.,13 mph,↑,70%,1005 mbar,N/A
+2023-03-11,18:50,,4 °C,Clear.,13 mph,↑,70%,1004 mbar,16 km
+2023-03-11,19:20,,4 °C,Passing clouds.,12 mph,↑,70%,1004 mbar,N/A
+2023-03-11,19:50,,4 °C,Passing clouds.,12 mph,↑,70%,1004 mbar,N/A
+2023-03-12,"04:50
+Sun, 12 Mar",,0 °C,Drizzle. Low clouds.,5 mph,↑,100%,996 mbar,4 km
+2023-03-12,5:20,,1 °C,Low clouds.,5 mph,↑,93%,996 mbar,6 km
+2023-03-12,5:50,,1 °C,Partly cloudy.,3 mph,↑,100%,995 mbar,6 km
+2023-03-12,6:20,,2 °C,Rain. Mostly cloudy.,3 mph,↑,93%,995 mbar,4 km
+2023-03-12,6:50,,1 °C,Light rain. Scattered clouds.,3 mph,↑,100%,995 mbar,5 km
+2023-03-12,7:20,,4 °C,Scattered showers. Partly sunny.,5 mph,↑,100%,995 mbar,6 km
+2023-03-12,7:50,,7 °C,Partly sunny.,15 mph,↑,87%,995 mbar,7 km
+2023-03-12,8:20,,9 °C,Partly sunny.,18 mph,↑,82%,995 mbar,8 km
+2023-03-12,8:50,,9 °C,Scattered clouds.,18 mph,↑,82%,995 mbar,9 km
+2023-03-12,9:20,,10 °C,Overcast.,18 mph,↑,82%,995 mbar,9 km
+2023-03-12,9:50,,10 °C,Partly sunny.,18 mph,↑,82%,995 mbar,8 km
+2023-03-12,10:20,,10 °C,Partly sunny.,14 mph,↑,82%,995 mbar,8 km
+2023-03-12,10:50,,11 °C,Scattered clouds.,18 mph,↑,82%,995 mbar,9 km
+2023-03-12,11:20,,10 °C,Partly sunny.,23 mph,↑,82%,995 mbar,9 km
+2023-03-12,11:50,,11 °C,Scattered showers. Scattered clouds.,26 mph,↑,77%,995 mbar,N/A
+2023-03-12,12:50,,12 °C,Scattered clouds.,24 mph,↑,72%,995 mbar,N/A
+2023-03-12,13:20,,11 °C,Scattered clouds.,25 mph,↑,72%,995 mbar,N/A
+2023-03-12,13:50,,12 °C,Scattered clouds.,21 mph,↑,67%,994 mbar,N/A
+2023-03-12,14:20,,10 °C,Light rain. Scattered clouds.,22 mph,↑,71%,994 mbar,N/A
+2023-03-12,14:50,,10 °C,Light rain. Broken clouds.,17 mph,↑,76%,993 mbar,N/A
+2023-03-12,15:20,,10 °C,Passing clouds.,24 mph,↑,82%,993 mbar,N/A
+2023-03-12,15:50,,10 °C,Light rain. Scattered clouds.,20 mph,↑,76%,992 mbar,N/A
+2023-03-12,16:20,,9 °C,Scattered clouds.,16 mph,↑,87%,991 mbar,N/A
+2023-03-12,16:50,,9 °C,Passing clouds.,18 mph,↑,87%,990 mbar,N/A
+2023-03-12,17:20,,9 °C,Scattered clouds.,20 mph,↑,87%,990 mbar,N/A
+2023-03-12,17:50,,9 °C,Scattered clouds.,18 mph,↑,87%,990 mbar,N/A
+2023-03-12,18:20,,9 °C,Scattered showers. Partly cloudy.,14 mph,↑,87%,990 mbar,N/A
+2023-03-12,18:50,,9 °C,Passing clouds.,13 mph,↑,87%,989 mbar,N/A
+2023-03-12,19:20,,9 °C,Passing clouds.,10 mph,↑,87%,989 mbar,N/A
+2023-03-12,20:20,,10 °C,Passing clouds.,7 mph,↑,82%,988 mbar,N/A
+2023-03-12,20:50,,10 °C,Passing clouds.,6 mph,↑,82%,987 mbar,N/A
+2023-03-12,21:20,,10 °C,Passing clouds.,13 mph,↑,82%,986 mbar,N/A
+2023-03-12,21:50,,10 °C,Clear.,20 mph,↑,82%,986 mbar,16 km
+2023-03-12,22:20,,10 °C,Light rain. Clear.,18 mph,↑,88%,985 mbar,N/A
+2023-03-12,22:50,,10 °C,Light rain. Passing clouds.,13 mph,↑,88%,984 mbar,N/A
+2023-03-12,23:20,,10 °C,Light rain. Passing clouds.,7 mph,↑,88%,983 mbar,N/A
+2023-03-13,"00:50
+Mon, 13 Mar",,9 °C,Light rain. Overcast.,2 mph,↑,94%,980 mbar,9 km
+2023-03-13,1:20,,9 °C,Light rain. Mostly cloudy.,3 mph,↑,94%,979 mbar,8 km
+2023-03-13,1:50,,8 °C,Light rain. Overcast.,6 mph,↑,100%,978 mbar,5 km
+2023-03-13,2:20,,8 °C,Light rain. Overcast.,6 mph,↑,100%,977 mbar,N/A
+2023-03-13,2:50,,8 °C,Drizzle. Overcast.,5 mph,↑,100%,976 mbar,4 km
+2023-03-13,3:20,,8 °C,Rain. Mostly cloudy.,3 mph,↑,93%,975 mbar,4 km
+2023-03-13,3:50,,8 °C,Rain. Mostly cloudy.,3 mph,↑,93%,974 mbar,4 km
+2023-03-13,4:20,,8 °C,Light rain. Mostly cloudy.,2 mph,↑,93%,973 mbar,9 km
+2023-03-13,4:50,,8 °C,Light rain. Partly cloudy.,2 mph,↑,100%,972 mbar,N/A
+2023-03-13,5:50,,11 °C,Light rain. Partly cloudy.,13 mph,↑,94%,970 mbar,9 km
+2023-03-13,6:20,,11 °C,Light rain. Passing clouds.,13 mph,↑,94%,970 mbar,9 km
+2023-03-13,6:50,,11 °C,Rain. Broken clouds.,21 mph,↑,88%,969 mbar,7 km
+2023-03-13,7:20,,11 °C,Light rain. Broken clouds.,18 mph,↑,88%,969 mbar,8 km
+2023-03-13,7:50,,10 °C,Light rain. Broken clouds.,14 mph,↑,94%,969 mbar,7 km
+2023-03-13,8:50,,11 °C,Light rain. Partly sunny.,20 mph,↑,88%,969 mbar,9 km
+2023-03-13,9:20,,11 °C,Light rain. Partly sunny.,18 mph,↑,88%,969 mbar,9 km
+2023-03-13,9:50,,11 °C,Light rain. Partly sunny.,17 mph,↑,94%,970 mbar,9 km
+2023-03-13,10:20,,11 °C,Light rain. Partly sunny.,8 mph,↑,94%,971 mbar,N/A
+2023-03-13,10:50,,6 °C,Light rain. Mostly cloudy.,12 mph,↑,93%,972 mbar,N/A
+2023-03-13,11:20,,6 °C,Rain. Mostly cloudy.,14 mph,↑,93%,973 mbar,2 km
+2023-03-13,11:50,,5 °C,Drizzle. Mostly cloudy.,14 mph,↑,100%,974 mbar,4 km
+2023-03-13,12:20,,5 °C,Rain. Broken clouds.,12 mph,↑,93%,975 mbar,4 km
+2023-03-13,12:50,,5 °C,Light rain. Partly sunny.,16 mph,↑,93%,975 mbar,6 km
+2023-03-13,13:20,,4 °C,Light rain. Partly sunny.,15 mph,↑,93%,976 mbar,6 km
+2023-03-13,13:50,,4 °C,Light rain. Mostly cloudy.,10 mph,↑,93%,976 mbar,6 km
+2023-03-13,14:50,,4 °C,Light rain. Broken clouds.,13 mph,↑,93%,978 mbar,6 km
+2023-03-13,15:20,,3 °C,Light rain. Mostly cloudy.,9 mph,↑,93%,978 mbar,8 km
+2023-03-13,15:50,,3 °C,Drizzle. Mostly cloudy.,5 mph,↑,93%,979 mbar,6 km
+2023-03-13,16:20,,3 °C,Drizzle. Mostly cloudy.,5 mph,↑,93%,980 mbar,5 km
+2023-03-13,16:50,,2 °C,Light rain. Mostly cloudy.,6 mph,↑,93%,981 mbar,5 km
+2023-03-13,17:20,,2 °C,Light rain. Mostly cloudy.,8 mph,↑,93%,982 mbar,6 km
+2023-03-13,17:50,,3 °C,Light rain. Partly sunny.,7 mph,↑,93%,983 mbar,6 km
+2023-03-13,18:20,,3 °C,Light rain. Passing clouds.,10 mph,↑,87%,983 mbar,6 km
+2023-03-13,18:50,,3 °C,Light rain. Mostly cloudy.,6 mph,↑,87%,984 mbar,7 km
+2023-03-13,19:20,,2 °C,Light rain. Passing clouds.,2 mph,↑,93%,985 mbar,N/A
+2023-03-13,19:50,,2 °C,Light rain. Passing clouds.,2 mph,↑,93%,985 mbar,N/A
+2023-03-14,"00:50
+Tue, 14 Mar",,1 °C,Passing clouds.,3 mph,↑,75%,992 mbar,N/A
+2023-03-14,1:20,,0 °C,Clear.,2 mph,↑,75%,993 mbar,16 km
+2023-03-14,1:50,,0 °C,Clear.,5 mph,↑,75%,993 mbar,16 km
+2023-03-14,2:20,,0 °C,Clear.,2 mph,↑,75%,994 mbar,16 km
+2023-03-14,2:50,,-1 °C,Clear.,2 mph,↑,86%,994 mbar,16 km
+2023-03-14,3:20,,-3 °C,Clear.,7 mph,↑,86%,995 mbar,16 km
+2023-03-14,4:20,,-4 °C,Clear.,7 mph,↑,93%,996 mbar,16 km
+2023-03-14,4:50,,-3 °C,Clear.,7 mph,↑,86%,996 mbar,16 km
+2023-03-14,5:20,,-2 °C,Clear.,5 mph,↑,86%,996 mbar,16 km
+2023-03-14,5:50,,-1 °C,Passing clouds.,6 mph,↑,86%,997 mbar,N/A
+2023-03-14,6:20,,-1 °C,Light snow. Passing clouds.,No wind,↑,86%,997 mbar,N/A
+2023-03-14,6:50,,-2 °C,Passing clouds.,No wind,↑,86%,997 mbar,N/A
+2023-03-14,7:20,,-1 °C,Passing clouds.,No wind,↑,86%,998 mbar,N/A
+2023-03-14,8:20,,1 °C,Passing clouds.,9 mph,↑,87%,999 mbar,N/A
+2023-03-14,8:50,,2 °C,Passing clouds.,10 mph,↑,81%,999 mbar,N/A
+2023-03-14,9:20,,2 °C,Passing clouds.,12 mph,↑,75%,1000 mbar,N/A
+2023-03-14,10:20,,3 °C,Scattered clouds.,8 mph,↑,70%,1001 mbar,N/A
+2023-03-14,10:50,,3 °C,Broken clouds.,8 mph,↑,75%,1001 mbar,N/A
+2023-03-14,11:20,,2 °C,Light rain. Partly sunny.,8 mph,↑,81%,1002 mbar,7 km
+2023-03-14,12:50,,3 °C,Scattered clouds.,6 mph,↑,75%,1003 mbar,N/A
+2023-03-14,13:20,,3 °C,Passing clouds.,3 mph,↑,75%,1003 mbar,N/A
+2023-03-14,13:50,,4 °C,Passing clouds.,5 mph,↑,65%,1004 mbar,N/A
+2023-03-14,14:20,,4 °C,Scattered clouds.,3 mph,↑,70%,1004 mbar,N/A
+2023-03-14,14:50,,5 °C,Passing clouds.,5 mph,↑,66%,1004 mbar,N/A
+2023-03-14,15:20,,5 °C,Passing clouds.,5 mph,↑,57%,1005 mbar,N/A
+2023-03-14,15:50,,5 °C,Passing clouds.,6 mph,↑,57%,1006 mbar,N/A
+2023-03-14,16:20,,4 °C,Passing clouds.,5 mph,↑,61%,1006 mbar,N/A
+2023-03-14,16:50,,5 °C,Passing clouds.,5 mph,↑,53%,1006 mbar,N/A
+2023-03-14,17:20,,5 °C,Passing clouds.,2 mph,↑,45%,1007 mbar,N/A
+2023-03-14,17:50,,5 °C,Passing clouds.,1 mph,↑,57%,1008 mbar,N/A
+2023-03-14,18:20,,2 °C,Clear.,3 mph,↑,65%,1008 mbar,16 km
+2023-03-14,18:50,,1 °C,Passing clouds.,3 mph,↑,70%,1009 mbar,N/A
+2023-03-14,19:20,,0 °C,Passing clouds.,1 mph,↑,75%,1010 mbar,N/A
+2023-03-14,19:50,,-1 °C,Clear.,7 mph,↑,80%,1010 mbar,16 km
+2023-03-14,20:20,,-1 °C,Clear.,6 mph,↑,80%,1010 mbar,16 km
+2023-03-14,21:20,,-2 °C,Clear.,1 mph,↑,86%,1011 mbar,16 km
+2023-03-15,"00:50
+Wed, 15 Mar",,-2 °C,Clear.,9 mph,↑,86%,1012 mbar,16 km
+2023-03-15,1:20,,-3 °C,Clear.,8 mph,↑,93%,1012 mbar,16 km
+2023-03-15,1:50,,-4 °C,Clear.,8 mph,↑,86%,1012 mbar,16 km
+2023-03-15,2:20,,-2 °C,Clear.,6 mph,↑,86%,1012 mbar,16 km
+2023-03-15,2:50,,-2 °C,Clear.,6 mph,↑,86%,1012 mbar,16 km
+2023-03-15,3:20,,-3 °C,Clear.,6 mph,↑,86%,1012 mbar,16 km
+2023-03-15,3:50,,-3 °C,Clear.,6 mph,↑,86%,1012 mbar,16 km
+2023-03-15,4:20,,-2 °C,Clear.,5 mph,↑,80%,1012 mbar,16 km
+2023-03-15,4:50,,-4 °C,Clear.,2 mph,↑,86%,1011 mbar,16 km
+2023-03-15,5:20,,-5 °C,Clear.,2 mph,↑,93%,1011 mbar,16 km
+2023-03-15,5:50,,-5 °C,Clear.,2 mph,↑,93%,1012 mbar,16 km
+2023-03-15,6:20,,-2 °C,Clear.,5 mph,↑,86%,1012 mbar,16 km
+2023-03-15,6:50,,-1 °C,Sunny.,6 mph,↑,80%,1012 mbar,16 km
+2023-03-15,7:20,,0 °C,Sunny.,5 mph,↑,75%,1012 mbar,16 km
+2023-03-15,7:50,,0 °C,Sunny.,8 mph,↑,80%,1012 mbar,16 km
+2023-03-15,8:20,,0 °C,Sunny.,7 mph,↑,87%,1011 mbar,16 km
+2023-03-15,8:50,,1 °C,Sunny.,8 mph,↑,81%,1011 mbar,16 km
+2023-03-15,9:20,,1 °C,Passing clouds.,6 mph,↑,81%,1011 mbar,N/A
+2023-03-15,9:50,,2 °C,Passing clouds.,5 mph,↑,75%,1012 mbar,N/A
+2023-03-15,10:20,,3 °C,Passing clouds.,7 mph,↑,75%,1011 mbar,N/A
+2023-03-15,10:50,,3 °C,Sunny.,13 mph,↑,81%,1011 mbar,16 km
+2023-03-15,11:20,,4 °C,Sunny.,9 mph,↑,75%,1011 mbar,16 km
+2023-03-15,11:50,,4 °C,Sunny.,8 mph,↑,75%,1011 mbar,16 km
+2023-03-15,12:20,,4 °C,Sunny.,7 mph,↑,75%,1011 mbar,16 km
+2023-03-15,12:50,,5 °C,Sunny.,6 mph,↑,76%,1010 mbar,16 km
+2023-03-15,13:20,,5 °C,Passing clouds.,9 mph,↑,70%,1010 mbar,N/A
+2023-03-15,13:50,,5 °C,Passing clouds.,8 mph,↑,76%,1010 mbar,N/A
+2023-03-15,14:20,,5 °C,Passing clouds.,9 mph,↑,76%,1010 mbar,N/A
+2023-03-15,14:50,,5 °C,Passing clouds.,7 mph,↑,76%,1009 mbar,N/A
+2023-03-15,15:20,,5 °C,Passing clouds.,7 mph,↑,76%,1009 mbar,N/A
+2023-03-15,15:50,,5 °C,Scattered clouds.,7 mph,↑,70%,1009 mbar,N/A
+2023-03-15,16:20,,5 °C,Partly sunny.,5 mph,↑,70%,1008 mbar,N/A
+2023-03-15,16:50,,5 °C,Light rain. Scattered clouds.,3 mph,↑,70%,1008 mbar,N/A
+2023-03-15,17:20,,5 °C,Light rain. Partly sunny.,9 mph,↑,70%,1008 mbar,N/A
+2023-03-15,17:50,,4 °C,Light rain. Partly sunny.,9 mph,↑,87%,1007 mbar,9 km
+2023-03-15,18:20,,4 °C,Light rain. Partly cloudy.,10 mph,↑,87%,1007 mbar,N/A
+2023-03-16,"00:50
+Thu, 16 Mar",,3 °C,Overcast.,7 mph,↑,93%,1000 mbar,N/A
+2023-03-16,1:20,,3 °C,Overcast.,8 mph,↑,93%,1000 mbar,N/A
+2023-03-16,2:20,,4 °C,Overcast.,7 mph,↑,93%,999 mbar,N/A
+2023-03-16,2:50,,4 °C,Overcast.,7 mph,↑,93%,998 mbar,N/A
+2023-03-16,4:20,,4 °C,Overcast.,5 mph,↑,93%,997 mbar,N/A
+2023-03-16,4:50,,4 °C,Light rain. Overcast.,5 mph,↑,93%,997 mbar,N/A
+2023-03-16,5:20,,4 °C,Light rain. Overcast.,5 mph,↑,93%,996 mbar,N/A
+2023-03-16,5:50,,4 °C,Light rain. Passing clouds.,5 mph,↑,100%,996 mbar,N/A
+2023-03-16,6:20,,4 °C,Passing clouds.,3 mph,↑,100%,996 mbar,6 km
+2023-03-16,6:50,,4 °C,Drizzle. More clouds than sun.,2 mph,↑,100%,995 mbar,5 km
+2023-03-16,7:20,,4 °C,Light rain. Broken clouds.,1 mph,↑,100%,995 mbar,4 km
+2023-03-16,8:20,,5 °C,Light rain. Broken clouds.,6 mph,↑,100%,995 mbar,5 km
+2023-03-16,8:50,,6 °C,Drizzle. Partly sunny.,6 mph,↑,93%,994 mbar,5 km
+2023-03-16,9:20,,6 °C,Drizzle. Mostly cloudy.,5 mph,↑,93%,994 mbar,5 km
+2023-03-16,9:50,,6 °C,Drizzle. Mostly cloudy.,5 mph,↑,93%,994 mbar,2 km
+2023-03-16,10:20,,6 °C,Drizzle. Broken clouds.,5 mph,↑,100%,994 mbar,5 km
+2023-03-16,10:50,,7 °C,Light rain. Broken clouds.,6 mph,↑,100%,993 mbar,N/A
+2023-03-16,11:20,,9 °C,Broken clouds.,3 mph,↑,100%,993 mbar,N/A
+2023-03-16,11:50,,12 °C,Broken clouds.,13 mph,↑,88%,993 mbar,N/A
+2023-03-16,12:20,,13 °C,Broken clouds.,16 mph,↑,82%,993 mbar,N/A
+2023-03-16,12:50,,13 °C,Broken clouds.,18 mph,↑,77%,993 mbar,N/A
+2023-03-16,13:20,,13 °C,Broken clouds.,18 mph,↑,82%,993 mbar,N/A
+2023-03-16,13:50,,13 °C,Scattered clouds.,17 mph,↑,82%,993 mbar,N/A
+2023-03-16,14:20,,13 °C,Partly sunny.,18 mph,↑,82%,993 mbar,N/A
+2023-03-16,14:50,,12 °C,Partly sunny.,17 mph,↑,82%,993 mbar,N/A
+2023-03-16,15:20,,13 °C,Partly sunny.,15 mph,↑,82%,993 mbar,N/A
+2023-03-16,15:50,,13 °C,Partly sunny.,18 mph,↑,77%,993 mbar,N/A
+2023-03-16,16:20,,12 °C,Partly sunny.,14 mph,↑,82%,993 mbar,N/A
+2023-03-16,16:50,,12 °C,Partly sunny.,15 mph,↑,82%,993 mbar,N/A
+2023-03-16,17:20,,12 °C,Partly sunny.,16 mph,↑,82%,993 mbar,N/A
+2023-03-16,17:50,,12 °C,Scattered clouds.,14 mph,↑,82%,993 mbar,N/A
+2023-03-16,18:20,,11 °C,Passing clouds.,13 mph,↑,88%,993 mbar,N/A
+2023-03-16,19:20,,11 °C,Passing clouds.,15 mph,↑,88%,994 mbar,N/A
+2023-03-16,19:50,,11 °C,Passing clouds.,16 mph,↑,88%,994 mbar,N/A
+2023-03-16,20:20,,10 °C,Passing clouds.,14 mph,↑,88%,994 mbar,N/A
+2023-03-16,20:50,,10 °C,Passing clouds.,14 mph,↑,88%,994 mbar,N/A
+2023-03-17,"00:50
+Fri, 17 Mar",,9 °C,Clear.,10 mph,↑,87%,995 mbar,16 km
+2023-03-17,1:20,,8 °C,Clear.,8 mph,↑,93%,995 mbar,16 km
+2023-03-17,1:50,,8 °C,Partly cloudy.,6 mph,↑,87%,995 mbar,N/A
+2023-03-17,2:20,,8 °C,Passing clouds.,8 mph,↑,93%,995 mbar,N/A
+2023-03-17,2:50,,9 °C,Passing clouds.,13 mph,↑,87%,995 mbar,N/A
+2023-03-17,3:20,,8 °C,Passing clouds.,9 mph,↑,87%,995 mbar,N/A
+2023-03-17,3:50,,9 °C,Clear.,10 mph,↑,87%,995 mbar,16 km
+2023-03-17,4:20,,8 °C,Clear.,8 mph,↑,93%,995 mbar,16 km
+2023-03-17,4:50,,9 °C,Passing clouds.,7 mph,↑,82%,995 mbar,N/A
+2023-03-17,5:20,,8 °C,Passing clouds.,3 mph,↑,87%,996 mbar,N/A
+2023-03-17,5:50,,8 °C,Passing clouds.,2 mph,↑,93%,996 mbar,N/A
+2023-03-17,6:20,,8 °C,Passing clouds.,2 mph,↑,93%,996 mbar,N/A
+2023-03-17,6:50,,9 °C,Partly sunny.,3 mph,↑,87%,996 mbar,N/A
+2023-03-17,7:20,,9 °C,Light rain. Partly sunny.,6 mph,↑,94%,997 mbar,N/A
+2023-03-17,8:20,,11 °C,Scattered clouds.,9 mph,↑,82%,997 mbar,N/A
+2023-03-17,8:50,,11 °C,Scattered clouds.,8 mph,↑,82%,997 mbar,N/A
+2023-03-17,9:20,,11 °C,Scattered clouds.,8 mph,↑,82%,997 mbar,N/A
+2023-03-17,9:50,,11 °C,Scattered clouds.,10 mph,↑,82%,998 mbar,N/A
+2023-03-17,10:20,,12 °C,Scattered clouds.,13 mph,↑,77%,998 mbar,N/A
+2023-03-17,10:50,,12 °C,Scattered clouds.,8 mph,↑,77%,998 mbar,N/A
+2023-03-17,11:20,,12 °C,Scattered clouds.,9 mph,↑,77%,998 mbar,N/A
+2023-03-17,11:50,,13 °C,Scattered clouds.,13 mph,↑,72%,998 mbar,N/A
+2023-03-17,12:20,,13 °C,Scattered clouds.,13 mph,↑,72%,998 mbar,N/A
+2023-03-17,12:50,,13 °C,Scattered clouds.,14 mph,↑,72%,998 mbar,N/A
+2023-03-17,13:20,,13 °C,Scattered clouds.,14 mph,↑,72%,998 mbar,N/A
+2023-03-17,13:50,,13 °C,Scattered clouds.,10 mph,↑,67%,998 mbar,N/A
+2023-03-17,14:20,,13 °C,Partly sunny.,12 mph,↑,72%,998 mbar,N/A
+2023-03-17,15:20,,12 °C,Light rain. Partly sunny.,12 mph,↑,77%,999 mbar,N/A
+2023-03-17,15:50,,13 °C,Scattered clouds.,6 mph,↑,72%,999 mbar,N/A
+2023-03-17,16:20,,12 °C,Scattered clouds.,3 mph,↑,82%,999 mbar,N/A
+2023-03-17,16:50,,11 °C,Light rain. Partly sunny.,3 mph,↑,88%,999 mbar,N/A
+2023-03-17,17:20,,12 °C,Scattered clouds.,2 mph,↑,82%,999 mbar,N/A
+2023-03-17,17:50,,12 °C,Scattered clouds.,5 mph,↑,77%,1000 mbar,N/A
+2023-03-17,18:20,,10 °C,Light rain. Passing clouds.,2 mph,↑,88%,1000 mbar,N/A
+2023-03-17,18:50,,10 °C,Passing clouds.,6 mph,↑,88%,1000 mbar,N/A
+2023-03-17,19:20,,9 °C,Passing clouds.,5 mph,↑,87%,1000 mbar,N/A
+2023-03-18,"00:50
+Sat, 18 Mar",,7 °C,Light rain. Passing clouds.,2 mph,↑,100%,1001 mbar,6 km
+2023-03-18,1:20,,7 °C,Light rain. Mostly cloudy.,5 mph,↑,100%,1001 mbar,8 km
+2023-03-18,2:20,,7 °C,Light rain. Passing clouds.,5 mph,↑,93%,1001 mbar,7 km
+2023-03-18,2:50,,7 °C,Light rain. Passing clouds.,6 mph,↑,100%,1001 mbar,5 km
+2023-03-18,3:20,,7 °C,Light rain. Passing clouds.,6 mph,↑,100%,1001 mbar,6 km
+2023-03-18,3:50,,7 °C,Light rain. Passing clouds.,5 mph,↑,100%,1001 mbar,8 km
+2023-03-18,4:20,,7 °C,Light rain. Partly cloudy.,7 mph,↑,100%,1002 mbar,7 km
+2023-03-18,4:50,,7 °C,Light rain. Mostly cloudy.,7 mph,↑,100%,1002 mbar,6 km
+2023-03-18,5:50,,7 °C,Passing clouds.,9 mph,↑,93%,1002 mbar,5 km
+2023-03-18,6:20,,7 °C,Passing clouds.,6 mph,↑,93%,1002 mbar,5 km
+2023-03-18,6:50,,7 °C,Drizzle. Fog.,7 mph,↑,93%,1002 mbar,4 km
+2023-03-18,7:20,,7 °C,Drizzle. Fog.,5 mph,↑,100%,1002 mbar,2 km
+2023-03-18,7:50,,7 °C,Drizzle. Fog.,5 mph,↑,100%,1002 mbar,2 km
+2023-03-18,8:20,,7 °C,Drizzle. Fog.,5 mph,↑,100%,1002 mbar,3 km
+2023-03-18,8:50,,8 °C,Fog.,6 mph,↑,100%,1003 mbar,4 km
+2023-03-18,9:20,,8 °C,Fog.,5 mph,↑,100%,1003 mbar,4 km
+2023-03-18,9:50,,8 °C,Fog.,6 mph,↑,100%,1003 mbar,4 km
+2023-03-18,10:20,,8 °C,Partly sunny.,6 mph,↑,100%,1003 mbar,6 km
+2023-03-18,10:50,,8 °C,Partly sunny.,7 mph,↑,100%,1003 mbar,7 km
+2023-03-18,11:20,,8 °C,Partly sunny.,7 mph,↑,100%,1003 mbar,9 km
+2023-03-18,11:50,,9 °C,Partly sunny.,7 mph,↑,94%,1003 mbar,N/A
+2023-03-18,12:50,,10 °C,Scattered clouds.,6 mph,↑,94%,1002 mbar,N/A
+2023-03-18,13:20,,12 °C,Scattered clouds.,6 mph,↑,88%,1002 mbar,N/A
+2023-03-18,14:20,,14 °C,Scattered clouds.,14 mph,↑,72%,1002 mbar,N/A
+2023-03-18,14:50,,14 °C,Scattered clouds.,13 mph,↑,72%,1002 mbar,N/A
+2023-03-18,15:20,,14 °C,Scattered clouds.,14 mph,↑,72%,1002 mbar,N/A
+2023-03-18,15:50,,14 °C,Scattered clouds.,13 mph,↑,72%,1002 mbar,N/A
+2023-03-18,16:20,,13 °C,Scattered clouds.,15 mph,↑,72%,1002 mbar,N/A
+2023-03-18,16:50,,10 °C,Light rain. Scattered clouds.,16 mph,↑,82%,1002 mbar,N/A
+2023-03-18,17:20,,9 °C,Light rain. More clouds than sun.,13 mph,↑,87%,1003 mbar,N/A
+2023-03-18,17:50,,8 °C,Broken clouds.,15 mph,↑,87%,1003 mbar,N/A
+2023-03-18,18:20,,8 °C,Partly sunny.,12 mph,↑,82%,1004 mbar,N/A
+2023-03-18,18:50,,8 °C,Light rain. Passing clouds.,12 mph,↑,82%,1004 mbar,N/A
+2023-03-18,19:20,,7 °C,Light rain. Passing clouds.,12 mph,↑,87%,1004 mbar,N/A
+2023-03-18,19:50,,7 °C,Passing clouds.,10 mph,↑,87%,1005 mbar,N/A
+2023-03-18,20:20,,7 °C,Light rain. Passing clouds.,10 mph,↑,87%,1005 mbar,N/A
+2023-03-19,"00:50
+Sun, 19 Mar",,5 °C,Passing clouds.,9 mph,↑,93%,1007 mbar,N/A
+2023-03-19,1:20,,5 °C,Passing clouds.,9 mph,↑,93%,1007 mbar,N/A
+2023-03-19,1:50,,4 °C,Clear.,8 mph,↑,93%,1008 mbar,16 km
+2023-03-19,2:50,,4 °C,Clear.,6 mph,↑,93%,1008 mbar,16 km
+2023-03-19,3:50,,4 °C,Clear.,7 mph,↑,93%,1009 mbar,16 km
+2023-03-19,4:20,,4 °C,Clear.,3 mph,↑,93%,1009 mbar,16 km
+2023-03-19,4:50,,4 °C,Clear.,5 mph,↑,93%,1009 mbar,16 km
+2023-03-19,5:20,,4 °C,Clear.,7 mph,↑,93%,1009 mbar,16 km
+2023-03-19,5:50,,4 °C,Clear.,6 mph,↑,93%,1010 mbar,16 km
+2023-03-19,6:20,,3 °C,Sunny.,7 mph,↑,100%,1010 mbar,16 km
+2023-03-19,6:50,,4 °C,Passing clouds.,6 mph,↑,93%,1011 mbar,N/A
+2023-03-19,7:20,,5 °C,Passing clouds.,5 mph,↑,93%,1011 mbar,N/A
+2023-03-19,7:50,,6 °C,Scattered clouds.,8 mph,↑,93%,1011 mbar,N/A
+2023-03-19,8:20,,6 °C,Scattered clouds.,7 mph,↑,93%,1012 mbar,N/A
+2023-03-19,8:50,,8 °C,Partly sunny.,6 mph,↑,87%,1012 mbar,N/A
+2023-03-19,9:20,,8 °C,Partly sunny.,9 mph,↑,87%,1012 mbar,N/A
+2023-03-19,10:20,,9 °C,Broken clouds.,7 mph,↑,76%,1013 mbar,N/A
+2023-03-19,10:50,,9 °C,Broken clouds.,6 mph,↑,76%,1013 mbar,N/A
+2023-03-19,11:20,,9 °C,Partly sunny.,7 mph,↑,76%,1013 mbar,N/A
+2023-03-19,11:50,,10 °C,Partly sunny.,7 mph,↑,71%,1013 mbar,N/A
+2023-03-19,12:20,,9 °C,Partly sunny.,8 mph,↑,71%,1013 mbar,N/A
+2023-03-19,12:50,,10 °C,Partly sunny.,9 mph,↑,67%,1013 mbar,N/A
+2023-03-19,13:20,,11 °C,Partly sunny.,12 mph,↑,58%,1013 mbar,N/A
+2023-03-19,13:50,,10 °C,Partly sunny.,10 mph,↑,67%,1013 mbar,N/A
+2023-03-19,14:20,,10 °C,Scattered clouds.,12 mph,↑,62%,1013 mbar,N/A
+2023-03-19,14:50,,10 °C,Scattered clouds.,9 mph,↑,62%,1012 mbar,N/A
+2023-03-19,15:20,,10 °C,Scattered clouds.,9 mph,↑,62%,1012 mbar,N/A
+2023-03-19,15:50,,10 °C,Scattered clouds.,12 mph,↑,62%,1012 mbar,N/A
+2023-03-19,16:20,,10 °C,Scattered clouds.,12 mph,↑,62%,1012 mbar,N/A
+2023-03-19,16:50,,9 °C,Scattered clouds.,10 mph,↑,66%,1012 mbar,N/A
+2023-03-19,17:20,,9 °C,Scattered clouds.,9 mph,↑,66%,1013 mbar,N/A
+2023-03-19,17:50,,8 °C,Scattered clouds.,8 mph,↑,71%,1012 mbar,N/A
+2023-03-19,18:20,,8 °C,Light rain. Partly sunny.,6 mph,↑,71%,1012 mbar,N/A
+2023-03-19,18:50,,7 °C,Light rain. Passing clouds.,5 mph,↑,81%,1012 mbar,N/A
+2023-03-19,19:20,,7 °C,Light rain. Passing clouds.,3 mph,↑,87%,1013 mbar,N/A
+2023-03-19,20:20,,7 °C,Light rain. Passing clouds.,5 mph,↑,87%,1012 mbar,N/A
