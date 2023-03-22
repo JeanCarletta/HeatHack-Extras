@@ -6,13 +6,16 @@ root: intro
 chapters:
 - file: extras
   sections:
+    - file: venue-2-multiple-locations
     - file: venue-7-electrics
-    - file: venue-20-electrics
-    - file: venue-10-two-monitors
-    - file: venue-21-weather
     - file: venue-9-lascars
     - file: venue-11-lascars
+    - file: venue-10-two-monitors
     - file: venue-10-reasoning
+    - file: venue-20-electrics
+    - file: venue-21-weather
+    - file: scaling-standalone
+
 - file: run-time
     
 
