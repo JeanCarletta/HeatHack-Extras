@@ -1,4 +1,13 @@
-# Too much data from CurrentCosts - get a one week extract, and downsample the whole thing.
+#DOWNSAMPLE-DATA.PY
+# CurrentCost monitors produce too much data to stick in a Jupyter book - a week is OK,
+# but more than that and the execution times really climb.  Downsample the data to half-hourly
+# averages over the three phases combined, assuming simple arithmetic addition for the combination
+# (which we think is appropriate for the way three phases are used in these buildings)
+# and also write daily kWh summaries.  
+
+
+# USAGE:   python downsample-data.py INFILENAME OUTFILENAME_DOWNSAMPLED_DATA OUTFILENAME_DAY_TOTALS
+# EXAMPLE: python downsample-data.py currentcost_20230305212535.csv venue_20_electricity_downsampled.csv venue_20_elecricity_by_day.csv
 
 import numpy as np
 import pandas as pd
