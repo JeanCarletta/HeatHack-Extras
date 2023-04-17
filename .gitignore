@@ -1,3 +1,9 @@
+# 6s interval data left in the electrics-preprocessing directory
+
+electrics-preprocessing/*.csv
+# don't have time to figure out how to make sure this doesn't execute.
+electrics-preprocessing/private-notebook.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
