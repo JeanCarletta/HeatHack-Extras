@@ -1,4 +1,7 @@
 # CORRECT-TIME.PY
+# Messed around copy of electrics processing to work for a one-off standalone monitor file
+# with similar timing problems.
+
 # When running without internet, our Pi doesn't know the correct time.  When it is on, it just counts 
 # forward from the last time it was connected to the internet.  We have the user record the time
 # they start and stop the Pi and send them to us.  We then need to adjust the times using an offset.
@@ -39,10 +42,11 @@ outfile = sys.argv[2]
 start = sys.argv[3]
 
 
-header = "recorded_time,field1,field2,field3,corrected_datetime"
+header = "recorded_time,temperature,rh"
 
-df = pd.read_csv(sys.argv[1],names=["pi_time","field1","field2","field3"])
+df = pd.read_csv(sys.argv[1]) #names=["pi_time","temperature","rh"])
 print(df)
+
 # code for finding stray pi_times that don't read as strings.  We got NaNs from bad characters at 
 #end of file; if this persists just remove any lines that contain non-strings in the pi_time field!
 # types = df.pi_time.apply(type).unique()
@@ -50,9 +54,9 @@ print(df)
 #     print(element)
 
 ## get rid of NaNs.
-df = df.dropna()
+#df = df.dropna()
 
-df['recorded_time'] = df.apply(lambda row: datetime.strptime(row.pi_time,'%Y-%m-%d %H:%M:%S'), axis=1)
+df['recorded_time'] = df.apply(lambda row: datetime.strptime(row.pi_time,'%Y-%m-%dT%H:%M:%SZ'), axis=1)
 first_time_in_file = df.recorded_time[0]
 
 actual_start_time = datetime.strptime(start, '%Y-%m-%d %H:%M')
@@ -75,4 +79,4 @@ df['timestamp'] = pd.to_datetime(df['timestamp']).dt.tz_localize('UTC')
 print(df['timestamp'].iloc[-1])
 print(type(df['timestamp'].iloc[-1]))
 
-df.to_csv(outfile, index=False, columns=["timestamp","field1","field2","field3"], date_format = "%Y-%m-%d %H:%M:%S")
+df.to_csv(outfile, index=False, columns=["timestamp","temp","rh"], header=False, date_format = "%Y-%m-%dT%H:%MZ")

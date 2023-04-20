@@ -3,7 +3,7 @@
 # and append the data to create one file.
 # we can't just use cat because of the header row in the second file.
 #
-# USAGE:   python correct-time.py FIRSTINFILE SECONDINFILE OUTFILE
+# USAGE:   python append-data.py FIRSTINFILE SECONDINFILE OUTFILE
 
 import numpy as np
 import pandas as pd
@@ -13,7 +13,7 @@ from datetime import datetime
 import sys
 
 if (len(sys.argv) != 4):
-    print("Usage: py correct-time.py INFILEONE INFILETWO OUTFILENAME") 
+    print("Usage: py append-data.py INFILEONE INFILETWO OUTFILENAME") 
     exit(0)
 
 infile = sys.argv[1]
