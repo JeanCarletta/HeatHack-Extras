@@ -16,6 +16,7 @@ chapters:
     - file: venue-21-weather
     - file: venue-44-lascars
     - file: venue-45-lascars
+    - file: venue-61-lascars 
     - file: scaling-standalone
 
 - file: run-time
