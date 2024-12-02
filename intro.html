@@ -66,7 +66,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Extras" href="extras.html" />
+    <link rel="next" title="Venue 2 - two locations in the same space" href="venue-2-multiple-locations.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -169,22 +169,19 @@ const thebe_selector_output = ".output, .cell_output"
             </li>
         </ul>
         <ul class="nav bd-sidenav">
-<li class="toctree-l1 has-children"><a class="reference internal" href="extras.html">Extras</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="venue-2-multiple-locations.html">Venue 2 - two locations in the same space</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-7-electrics.html">Extra: Venue 7 electrics</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-9-lascars.html">Venue 9 - lots of Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-11-lascars.html">Venue 11 - lots of Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-10-two-monitors.html">Venue 10 - two of our sensor units</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-10-reasoning.html">Separating traces when two monitors are in the same venue</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-20-electrics.html">Extra: Venue 20 electrics</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-21-weather.html">Venue 21 - weather comparison</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-44-lascars.html">Venue 44 - Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-45-lascars.html">Venue 45 - Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-61-lascars.html">Venue 61 - Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="venue-83-lascars.html">Venue 83 - Lascar loggers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="scaling-standalone.html">Scaling the standalone data</a></li>
-</ul>
-</li>
+<li class="toctree-l1"><a class="reference internal" href="venue-2-multiple-locations.html">Venue 2 - two locations in the same space</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-7-electrics.html">Extra: Venue 7 electrics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-9-lascars.html">Venue 9 - lots of Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-11-lascars.html">Venue 11 - lots of Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-10-two-monitors.html">Venue 10 - two of our sensor units</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-10-reasoning.html">Separating traces when two monitors are in the same venue</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-20-electrics.html">Extra: Venue 20 electrics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-21-weather.html">Venue 21 - weather comparison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-44-lascars.html">Venue 44 - Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-45-lascars.html">Venue 45 - Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-61-lascars.html">Venue 61 - Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="venue-83-lascars.html">Venue 83 - Lascar loggers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="scaling-standalone.html">Scaling the standalone data</a></li>
 <li class="toctree-l1"><a class="reference internal" href="run-time.html">Run time</a></li>
 </ul>
 
@@ -385,7 +382,19 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="intro">
 <h1>Intro<a class="headerlink" href="#intro" title="Permalink to this heading">#</a></h1>
-<p>Sometimes we need to do some special plots for venues that we find hard to do in Excel - this just gives us a good place to put them.</p>
+<p>We use this website to show plots for venues that have fielded extra equipment.  Sometimes they have data from a clip-on electricity monitor, but usually it’s data from a whole set of commercial temperature data loggers.</p>
+<p>If you prefer to plot your data in Excel, you can download your full data here by choosing the folder with your venue number:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/JeanCarletta/HeatHack-Extras/tree/master/">Data CSV files</a></p></li>
+</ul>
+<p>Click on the folder for your venue to open it.  You will see the individual data files for the monitor locations.  Click on them one at a time to open the file.  For each one you’ll see something like the image shows.  You can download the data as a CSV file using the download button.  In the image it is circled in red.  Click on the image to make it larger if you can’t see what to do.</p>
+<a class="bg-primary mb-1 reference internal image-reference" href="_images/download-data.png"><img alt="download data button is at top right and looks like a downward pointing arrow in a tray" class="bg-primary mb-1 align-center" src="_images/download-data.png" style="width: 400px;" /></a>
+<p>If you any issues, for instance, with the timestamp format, let us know - our Excel handles it natively, but yours may not.</p>
+<p>We provide some example Excel and Google sheets that handle basic plotting.  In plotting temperature against a user diary, they assume an advanced feature, lambda functions, that is available in Google Sheets and the very latest version of Excel, but not earlier versions.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://drive.google.com/drive/folders/10cTLqWCWpXP3KaKjMbCc8UiKcxjmF9Ng?usp=share_link">Google Drive with spreadsheet examples</a></p></li>
+</ul>
+<p>If you have improvements, please contribute them to the project for others to use.</p>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -421,11 +430,11 @@ document.write(`
                   
 <div class="prev-next-area">
     <a class="right-next"
-       href="extras.html"
+       href="venue-2-multiple-locations.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Extras</p>
+        <p class="prev-next-title">Venue 2 - two locations in the same space</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
