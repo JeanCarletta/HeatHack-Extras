@@ -4,21 +4,19 @@
 format: jb-book
 root: intro
 chapters:
-- file: extras
-  sections:
-    - file: venue-2-multiple-locations
-    - file: venue-7-electrics
-    - file: venue-9-lascars
-    - file: venue-11-lascars
-    - file: venue-10-two-monitors
-    - file: venue-10-reasoning
-    - file: venue-20-electrics
-    - file: venue-21-weather
-    - file: venue-44-lascars
-    - file: venue-45-lascars
-    - file: venue-61-lascars 
-    - file: venue-83-lascars 
-    - file: scaling-standalone
+- file: venue-2-multiple-locations
+- file: venue-7-electrics
+- file: venue-9-lascars
+- file: venue-11-lascars
+- file: venue-10-two-monitors
+- file: venue-10-reasoning
+- file: venue-20-electrics
+- file: venue-21-weather
+- file: venue-44-lascars
+- file: venue-45-lascars
+- file: venue-61-lascars 
+- file: venue-83-lascars 
+- file: scaling-standalone
 
 - file: run-time
     
