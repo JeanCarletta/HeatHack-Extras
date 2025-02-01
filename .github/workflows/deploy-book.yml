@@ -17,31 +17,44 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4 #@v2
 
     # Install dependencies
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+    - name: Set up Python 
+      uses: actions/setup-python@v5 #@v2
       with:
-        python-version: 3.8
+        python-version: '3.10' #3.8
 
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
 
-    - name: install dependencies
-      run: |
-          pip install requests pandas datetime ipywidgets plotly IPython
+    #- name: install dependencies
+    #  run: |
+    #      pip install requests pandas datetime ipywidgets plotly IPython
 
-    # Build the book ## do we need to clean first?
+    # Build the book
+    ## be careful or add in jupyter-book clean . to get a build
+    ## when only the data has changed.
     - name: Build the book
       run: |
-        jupyter-book clean .
         jupyter-book build .
 
-    # Push the book's HTML to github-pages
-    - name: GitHub Pages action
-      uses: peaceiris/actions-gh-pages@v3.6.1
+# Upload the book's HTML as an artifact
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_build/html
+        path: "_build/html"
+
+# Deploy the book's HTML to GitHub Pages
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
+
+## this was the prestandard version
+# Push the book's HTML to github-pages
+#    - name: GitHub Pages action
+#      uses: peaceiris/actions-gh-pages@v3.6.1
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
+#        publish_dir: ./_build/html
