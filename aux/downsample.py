@@ -7,7 +7,8 @@
 # EDIT THESE VARIABLES BEFORE RUNNING
 
 omit_before = "26-11-2024 09:00" #"2024-11-25T00:00:00Z"
-csv_filepath = "../venue-86/"
+csv_filepath = "../venue-AS/clean"
+csv_outpath = "../venue-AS/thermopro"
 
 
 import pandas as pd
@@ -48,7 +49,7 @@ for f in csv_files:
         #print(type(desired_start))
         if (len(dfTempDataSet) > 0):
                 dfTempDataSet = dfTempDataSet.resample('5min').first()
-                dfTempDataSet.to_csv(f, index=False)  
+                dfTempDataSet.to_csv(os.path.join(csv_outpath, f), index=False)  
         else:
             print("no data after the break date")     
     else:
