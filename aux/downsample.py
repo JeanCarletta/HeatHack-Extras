@@ -7,7 +7,7 @@
 # EDIT THESE VARIABLES BEFORE RUNNING
 
 omit_before = "26-11-2024 09:00" #"2024-11-25T00:00:00Z"
-csv_filepath = "../venue-AS/clean"
+csv_filepath = "../venue-AS/thermopro/clean"
 csv_outpath = "../venue-AS/thermopro"
 
 

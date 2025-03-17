@@ -8,8 +8,8 @@
 
 # EDIT THESE VARIABLES BEFORE RUNNING
 
-csv_filepath = "../venue-AS/raw"
-csv_outpath = "../venue-AS/clean"
+csv_filepath = "../venue-AS/thermopro/raw"
+csv_outpath = "../venue-AS/thermopro/clean"
 number_of_header_lines = 2
 
 
